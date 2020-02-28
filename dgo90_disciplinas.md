@@ -1,3 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 EngSoftware - Atráves das técnicas de entrevistas adequadas, elaboração de questionários eficientes, mapeamento de todo processo e softwares daremos início ao projeto integrado.
 
 DevOps - Compartilhamento e versonificação do projeto integrado no GitHub para que as equipes possam trabalhar no mesmo projeto.
